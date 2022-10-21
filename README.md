@@ -1,2 +1,1 @@
-# PROC1
-fdssdffdsdfs
+# ExplotarGlobos2-plantilla
